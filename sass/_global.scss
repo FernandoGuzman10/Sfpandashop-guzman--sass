@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-image: linear-gradient(45deg, rgb(238, 237, 237), rgb(125, 122, 122));
+    position: relative;
+    padding-bottom: 10%;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-right: 10px;
+}
+ p {
+    line-height: 1.8;
+    margin: 20px;
+    text-align: justify;
+    font-size: 25px;
+
+}
+h3 {
+    font-size: 30px;
+    display: flex;
+}
